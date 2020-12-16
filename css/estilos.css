@@ -1,0 +1,16 @@
+body{
+    box-sizing: border-box;
+    background-color: chartreuse;
+}
+
+#nombreWeb{
+    border: 1px solid black;
+}
+
+#contenido{
+    border: 1px solid black;
+}
+
+#footer{
+    border: 1px solid black;
+}
